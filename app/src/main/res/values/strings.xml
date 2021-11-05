@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgeConfirmForAds</string>
+    <string name="age_confirm_title">To show your age-appropriate ads please tell us your age</string>
+    <string name="age_under_13">Under 13 years old</string>
+    <string name="age_13_to_16">Between 13 and 16 years old</string>
+    <string name="age_over_16">Over 16 years old</string>
+</resources>
